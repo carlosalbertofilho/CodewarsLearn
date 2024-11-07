@@ -7,17 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1f4f46-c20d-4047-8063-25e1d5e3e23a" name="Changes" comment="Treinando com o Codewars">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2024/2024.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2024/Brace.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2024/GlobalUsings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodewarsLearn.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodewarsLearn.sln.DotSettings.user" afterDir="false" />
+    <list default="true" id="6a1f4f46-c20d-4047-8063-25e1d5e3e23a" name="Changes" comment="Realizado desafio de achar quantos cubos existem em determinado volume">
+      <change afterPath="$PROJECT_DIR$/2024/ASum.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/GlobalUsings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/2024/GlobalUsings.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +42,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,8 +80,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730993276622</updated>
-      <workItem from="1730993277880" duration="6368000" />
+      <workItem from="1730993277880" duration="10092000" />
     </task>
+    <task id="LOCAL-00001" summary="Treinando com o Codewars">
+      <option name="closed" value="true" />
+      <created>1730999676321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730999676321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +112,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Treinando com o Codewars" />
-    <option name="LAST_COMMIT_MESSAGE" value="Treinando com o Codewars" />
+    <MESSAGE value="Realizado desafio de achar quantos cubos existem em determinado volume" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realizado desafio de achar quantos cubos existem em determinado volume" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
