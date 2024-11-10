@@ -7,15 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1f4f46-c20d-4047-8063-25e1d5e3e23a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2024/SumOfMinimumsArrays.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodewarsLearn.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CodewarsLearn.sln.DotSettings.user" afterDir="false" />
+    <list default="true" id="6a1f4f46-c20d-4047-8063-25e1d5e3e23a" name="Changes" comment="Desafio do SumOfMinimumsArrays.cs">
+      <change beforePath="$PROJECT_DIR$/2024/SumOfMinimumsArrays.cs" beforeDir="false" afterPath="$PROJECT_DIR$/2024/SumOfMinimumsArrays.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,7 +100,7 @@
       <workItem from="1730993277880" duration="10914000" />
       <workItem from="1731004454476" duration="792000" />
       <workItem from="1731241501289" duration="2196000" />
-      <workItem from="1731274592776" duration="3028000" />
+      <workItem from="1731274592776" duration="3184000" />
     </task>
     <task id="LOCAL-00001" summary="Treinando com o Codewars">
       <option name="closed" value="true" />
@@ -141,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731243678366</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Desafio do SumOfMinimumsArrays.cs">
+      <option name="closed" value="true" />
+      <created>1731277677164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731277677164</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +175,8 @@
     <MESSAGE value="Realizado desafio de achar quantos cubos existem em determinado volume" />
     <MESSAGE value="Adiciona testes unitários para métodos de contagem de vogais, soma de números ímpares e ordenação de dígitos&#10;&#10;- Adiciona testes para o método `GetVowelCount` na classe `VowelCount`&#10;- Adiciona testes para o método `RowSumOddNumbers` na classe `SumOddNumbers`&#10;- Adiciona testes para o método `DescendingOrder` na classe `OrderDescendingNumber`&#10;- Adiciona testes para o método `Find` na classe `IsEvenFind`" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="Desafio do SumOfMinimumsArrays.cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio do SumOfMinimumsArrays.cs" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

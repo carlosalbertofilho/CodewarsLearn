@@ -23,9 +23,13 @@ public static class SumOfMinimumsArrays
                 if (numbers[i, j] < min) min = numbers[i, j];
             sum += min;
         }
-
         return sum;
     }
+    
+    public static int SumOfMinimums2(int[,] num) => 
+        Enumerable.Range(0, num.GetLength(0))
+            .Select(x => Enumerable.Range(0, num.GetLength(1)).Select(y => num[x,y]))
+            .Sum(x => x.Min());
 }
 
 public class SumOfMinimumsTest
@@ -41,5 +45,10 @@ public class SumOfMinimumsTest
     [Theory]
     [MemberData(nameof(TestData))]
     public void SumOfMinimums_ShouldReturnSumOfMinimums(int[,] numbers, int expected)
+        => Assert.Equal(expected, SumOfMinimumsArrays.SumOfMinimums(numbers));
+    
+    [Theory]
+    [MemberData(nameof(TestData))]
+    public void SumOfMinimums2_ShouldReturnSumOfMinimums(int[,] numbers, int expected)
         => Assert.Equal(expected, SumOfMinimumsArrays.SumOfMinimums(numbers));
 }
