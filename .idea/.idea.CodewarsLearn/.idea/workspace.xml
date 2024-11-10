@@ -7,8 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1f4f46-c20d-4047-8063-25e1d5e3e23a" name="Changes" comment="fix">
-      <change beforePath="$PROJECT_DIR$/2024/Age.cs" beforeDir="false" afterPath="$PROJECT_DIR$/2024/Age.cs" afterDir="false" />
+    <list default="true" id="6a1f4f46-c20d-4047-8063-25e1d5e3e23a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2024/SumOfMinimumsArrays.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodewarsLearn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodewarsLearn.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CodewarsLearn.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,20 +20,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "carlosalbertofilho"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;carlosalbertofilho&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/carlosalbertofilho/CodewarsLearn.git",
-    "accountId": "55baad19-8c1f-431c-952a-508aebd274ba"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/carlosalbertofilho/CodewarsLearn.git&quot;,
+    &quot;accountId&quot;: &quot;55baad19-8c1f-431c-952a-508aebd274ba&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///home/carlosfilho/RiderProjects/CodewarsLearn/2024/ASum.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6705b91df1064182be07a424dbaadc97d1ba00/c6/c166f5f0/Array.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -39,7 +41,7 @@
 }</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -52,7 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "96447d93-6a53-4137-9b67-102ad9f9e923.executor": "Run",
+    "96447d93-6a53-4137-9b67-102ad9f9e923.executor": "Debug",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -66,7 +68,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="96447d93-6a53-4137-9b67-102ad9f9e923">
+  <component name="RunManager" selected=".NET Project.2024">
     <configuration name="2024" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -96,7 +98,8 @@
       <updated>1730993276622</updated>
       <workItem from="1730993277880" duration="10914000" />
       <workItem from="1731004454476" duration="792000" />
-      <workItem from="1731241501289" duration="2083000" />
+      <workItem from="1731241501289" duration="2196000" />
+      <workItem from="1731274592776" duration="3028000" />
     </task>
     <task id="LOCAL-00001" summary="Treinando com o Codewars">
       <option name="closed" value="true" />
@@ -130,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731243533493</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix">
+      <option name="closed" value="true" />
+      <created>1731243678366</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731243678366</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
